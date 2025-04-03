@@ -170,3 +170,4 @@ C:\Users\thultz\source\repos\LIARSBAR_UTILS\LIARSBAR_UTILS\obj\Debug\net6.0\LIAR
 C:\Users\thultz\source\repos\LIARSBAR_UTILS\LIARSBAR_UTILS\obj\Debug\net6.0\refint\LIARSBAR_UTILS.dll
 C:\Users\thultz\source\repos\LIARSBAR_UTILS\LIARSBAR_UTILS\obj\Debug\net6.0\LIARSBAR_UTILS.pdb
 C:\Users\thultz\source\repos\LIARSBAR_UTILS\LIARSBAR_UTILS\obj\Debug\net6.0\ref\LIARSBAR_UTILS.dll
+C:\Users\thultz\source\repos\LIARSBAR_UTILS\LIARSBAR_UTILS\obj\Debug\net6.0\LIARSBAR_UTILS.sourcelink.json

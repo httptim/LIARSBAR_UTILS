@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LIARSBAR_UTILS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+248d8a151d39bfb9a5f91826e281c854e07346d0")]
 [assembly: System.Reflection.AssemblyProductAttribute("LIARSBAR_UTILS")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LIARSBAR_UTILS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
